@@ -1,0 +1,4 @@
+create table stores_mumbai(
+sid number(10),
+aname varchar2(15),
+location varchar2(15));

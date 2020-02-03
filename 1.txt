@@ -1,0 +1,1 @@
+create view storemp as select * from store_pune union select * from store_mumbai@link4server1;
